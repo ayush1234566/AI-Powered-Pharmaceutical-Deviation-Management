@@ -1,0 +1,34 @@
+Subject: URGENT - Contamination Found in Water System - Plant B
+
+From: Dr. Anita Sharma, QC Manager
+To: QA Department, Plant Engineering
+Date: September 22, 2026
+
+Dear Team,
+
+During routine environmental monitoring of the Purified Water system at our Formulation Plant B (Water Loop WL-03), we detected microbial counts exceeding the alert limit.
+
+Details:
+- Sampling Point: SP-WL03-07 (Point of Use - Granulation Area)  
+- Date of Sampling: September 21, 2026
+- Product affected: Amlodipine Besylate Tablets 5mg (Batch ABT-2026-1532)
+- Water was used in granulation step on Sept 21 morning shift
+
+Test Results:
+- Total Aerobic Microbial Count (TAMC): 180 CFU/mL (Alert Limit: 100 CFU/mL, Action Limit: 500 CFU/mL)
+- Endotoxin: Within limits (< 0.25 EU/mL)
+- TOC: Within limits (< 500 ppb)
+- Conductivity: Within limits
+
+The count exceeds the alert limit but is within the action limit. However, as this water was already used in Batch ABT-2026-1532, we need to assess the impact on the batch.
+
+Immediate actions:
+1. Re-sampling of SP-WL03-07 and adjacent points completed
+2. Batch ABT-2026-1532 placed on hold
+3. Sanitization of WL-03 loop initiated (hot water sanitization at 80°C for 2 hours)
+4. Root cause investigation to be initiated
+
+Please treat this as a deviation and initiate the formal documentation process.
+
+Regards,
+Dr. Anita Sharma
